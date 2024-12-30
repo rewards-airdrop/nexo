@@ -1,0 +1,11 @@
+.embedded-messaging{z-index:96;transition-property:opacity;transition-duration:.45s;transition-timing-function:ease;position:relative}body.is-banner-visible .embedded-messaging{opacity:0}.embedded-messaging
+	.embeddedMessagingConversationButtonWrapper
+	.embeddedMessagingConversationButton{width:64px;height:64px;bottom:14px;right:16px}.embedded-messaging
+	.embeddedMessagingConversationButtonWrapper
+	.embeddedMessagingConversationButton
+	div[class=embeddedMessagingIconContainer]>svg.embeddedMessagingIconChat{max-height:35px;max-width:35px;transform:scale(1) translate(0)}@media screen and (max-width:600px){.embedded-messaging
+		.embeddedMessagingConversationButtonWrapper
+		.embeddedMessagingConversationButton{width:48px;height:48px}.embedded-messaging
+		.embeddedMessagingConversationButtonWrapper
+		.embeddedMessagingConversationButton
+		div[class=embeddedMessagingIconContainer]>svg.embeddedMessagingIconChat{max-height:25px;max-width:25px;transform:scale(1) translate(0)}}
